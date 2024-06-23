@@ -1,11 +1,11 @@
-Languages & Frameworks:    
+**Languages & Frameworks:**    
 C# 🟦   
 .NET 🛠️  
 ASP.NET Core 🌐  
 Entity Framework 📊  
 
-Databases:  
+**Databases:**    
 MS SQL 🗄️   
 
-Web Development:   
+**Web Development:**    
 REST API development with ASP.NET Core 🔗  

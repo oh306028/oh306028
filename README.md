@@ -2,12 +2,19 @@ About Me 👋 Hello! I'm a second-year Computer Science student at the Silesian 
 
 Languages & Frameworks:
 
-C# 🟦 .NET 🛠️ ASP.NET Core 🌐 Entity Framework 📊
+C# 🟦   
+.NET 🛠️  
+ASP.NET Core 🌐  
+Entity Framework 📊  
 
 Databases:
+MS SQL 🗄️   
 
-MS SQL 🗄️ Web Development:
+Web Development:  
+REST API development with ASP.NET Core 🔗  
 
-REST API development with ASP.NET Core 🔗 Learning MVC 📚 Learning HTML and CSS 🎨
+To do:  
+MVC 📚  
+HTML and CSS 🎨  
 
 I'm constantly striving to improve my skills and expand my knowledge. I'm currently focused on mastering MVC patterns and enhancing my web development capabilities. Feel free to check out my repositories and see what I’m working on. I'm always open to feedback and collaboration on interesting projects

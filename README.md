@@ -1,4 +1,6 @@
-About Me 👋 Hello! I'm a second-year Computer Science student at the Silesian University of Technology. I have a strong passion for software development, particularly within the .NET ecosystem. My current skill set includes:
+ 👋 Hello!   
+ I'm a second-year Computer Science student at the Silesian University of Technology. I have a strong passion for software development, particularly within the .NET ecosystem.   
+ My current skill set includes:
 
 Languages & Frameworks:
 
